@@ -1,1 +1,1 @@
-# Responsive-CSS-grid-layout with mobile hamburger menu
+# Responsive CSS grid layout with mobile hamburger menu
